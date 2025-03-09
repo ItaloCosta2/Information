@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ItaloCosta2/ItaloCosta2/output/snake.svg" alt="Snake animation" />
 
 ###
