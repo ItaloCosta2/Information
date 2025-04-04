@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {seu nome}!
+##  Olá, meu nome é Italo!
 
 Faça uma breve apresentação sobre você e a sua stack.
 Olá, meu Nome é Italo sou Estudante de Engenharia de Software  e entusiasta de desenvolvimento mobile com foco em Flutter.
