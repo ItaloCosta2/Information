@@ -7,10 +7,6 @@ Atualmente, estou desenvolvendo um app que compara preços de mercados locais co
 Busco me conectar com profissionais da área de tecnologia e cibersegurança.
 “O impossível só existe até alguém provar o contrário.”.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-🔭 Estou elaborando e codando um projeto INOVADOR que vai mudar a forma na qual vivemos.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 💬 Email contact --> italocostaprogramador2024@gmail.com.
 
 ---
