@@ -1,6 +1,6 @@
 # 🚀 Aprendizado em Dart + Flutter
 
-Bem-vindo ao meu repositório de estudos com **Dart**, a linguagem por trás do poderoso **Flutter**. Aqui você vai encontrar meu progresso, códigos, anotações e mini-projetos enquanto busco me tornar o **melhor programador mobile da UniRV** e referência no Brasil. 🌎📱
+Bem-vindo ao meu repositório de estudos com **Dart**, a linguagem por trás do poderoso **Flutter**. Aqui você vai encontrar meu progresso, códigos, anotações e mini-projetos enquanto busco me tornar o **melhor programador mobile** e referência no Brasil. 🌎📱
 
 ---
 
