@@ -1,29 +1,36 @@
-<h2 align="left">Flutter Developer<br>@italofns</h2>
+# 🚀 Aprendizado em Dart + Flutter
 
-###
+Bem-vindo ao meu repositório de estudos com **Dart**, a linguagem por trás do poderoso **Flutter**. Aqui você vai encontrar meu progresso, códigos, anotações e mini-projetos enquanto busco me tornar o **melhor programador mobile da UniRV** e referência no Brasil. 🌎📱
 
-<div align="center">
-</div>
+---
 
-###
+## 🧠 Sobre o Repositório
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
+Este repositório contém:
 
-###
+- 📚 Conceitos fundamentais de Dart
+- 🔄 Estruturas de repetição e controle
+- 🧱 Programação orientada a objetos
+- 🎯 Null Safety e boas práticas
+- ⏳ Programação assíncrona (Future, async/await)
+- 🧪 Testes simples e exemplos comentados
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+## 🛠️ Tecnologias
 
-<img src="https://raw.githubusercontent.com/ItaloCosta2/ItaloCosta2/output/snake.svg" alt="Snake animation" />
+- **Dart**: Linguagem principal dos estudos
+- **Flutter** (em breve): Framework para apps mobile, web e desktop
+- **Visual Studio Code**: Editor preferido
+- **Git** e **GitHub**: Versionamento e portfólio
 
-###
+---
+
+## 📂 Organização
+
+```bash
+📁 dart-estudos/
+├── fundamentos/       # Sintaxe básica e tipos primitivos
+├── colecoes/          # List, Set, Map
+├── funcoes/           # Funções normais e arrow functions
+├── poo/               # Classes, objetos, herança, polimorfismo
