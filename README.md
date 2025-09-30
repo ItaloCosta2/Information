@@ -1,25 +1,27 @@
-##  Olá, meu nome é Italo!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Faça uma breve apresentação sobre você e a sua stack.
-Olá, meu Nome é Italo sou Estudante de Engenharia de Software  e entusiasta de desenvolvimento mobile com foco em Flutter.
-Tenho paixão por criar soluções digitais que resolvem problemas reais — principalmente apps com interface limpa, rápida e eficiente.
-Atualmente, estou desenvolvendo um app que compara preços de mercados locais com base em panfletos.
-Busco me conectar com profissionais da área de tecnologia e cibersegurança.
-“O impossível só existe até alguém provar o contrário.”.
+###
 
-💬 Email contact --> italocostaprogramador2024@gmail.com.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 🚀 Minhas Skills
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
-
-## ⭐ GitHub Stats
-
-
+###
